@@ -1,0 +1,3 @@
+<?php
+// Kosong, sekosong hatiku~
+?>
